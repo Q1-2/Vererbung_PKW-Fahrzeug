@@ -1,6 +1,6 @@
 #pragma once
-#include "Fahrzeug.h"
 
-class LKW :public Fahrzeug {
-
+class LKW {
+	// unterschiedet sich vom Fahrzeug an ...
+	// Anzahl Achsen
 };

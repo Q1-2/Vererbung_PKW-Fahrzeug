@@ -1,5 +1,4 @@
-#include "Fahrzeug.h"
-
-class Motorrad :public Fahrzeug {
-
+class Motorrad {
+	// unterschiedet sich vom Fahrzeug an ...
+	// das es ein Zweisitzer sein kann.
 }; 
